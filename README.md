@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/YOLO-Object%20Detection-00AEEF?style=for-the-badge" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 ## 📌 About the Project
@@ -24,7 +23,6 @@ A real-time object detection application built using Python, a pretrained YOLO m
 
 - Python
 - Ultralytics YOLO
-- OpenCV
 - Computer Vision
 
 ## ▶️ How to Run
