@@ -43,11 +43,12 @@ python main.py
 
 Make sure your webcam is connected. The model weights may download automatically on the first run.
 
-## 🖼️ Demo
+## 🖼️ Project Demo screenshot
 
-Add a screenshot of your actual application here:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyanshu-sengar/Real-Time-Object-Detection/main/sample%20screenshot.png" alt="Real-Time Object Detection using YOLO" width="800">
+</p>
 
-![Real-time object detection](screenshots/detection.png)
 
 ## 👨‍💻 Author
 
@@ -59,6 +60,7 @@ GitHub: [divyanshu-sengar](https://github.com/divyanshu-sengar)
 
 ## 🙌 Acknowledgements
 
+- [Python](https://www.python.org/downloads/?utm_source=chatgpt.com)
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
-- [OpenCV](https://opencv.org/)
+
 
